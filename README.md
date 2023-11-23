@@ -1,1 +1,1 @@
-# rsschool-cv
+https://haihanich.github.io/rsschool-cv/cv
