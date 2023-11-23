@@ -11,6 +11,7 @@
 
 ## Skills: 
 *JS, Python, HTML, CSS, Git*
+
 ## Code Examples:
 ```javascript
 function ivanMa(i) {
