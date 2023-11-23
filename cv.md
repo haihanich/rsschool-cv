@@ -11,3 +11,21 @@
 
 ## Skills: 
 *JS, Python, HTML, CSS, Git*
+## Code Examples:
+```javascript
+function ivanMa(i) {
+    console.log(i)
+}
+
+ivanMa('strong hire!')
+};
+```
+
+## Work Experience: 
+*Tinkoff - CMS Engineer*
+
+## Education: 
+*SPbGUVM*
+
+## Languages: 
+*English - B2*
